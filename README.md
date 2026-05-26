@@ -6,8 +6,8 @@ A written reflection on the key challenges and solutions involved in connecting 
 
 ### Reading
 
-- [Avoiding Cross-Origin Issues While Hosting Full Projects — Dev.to](https://dev.to/...)
-- [The Ultimate Guide to Setting Up Your Dev Environment for CORS — Wisp Blog](https://wisp.blog/...)
+- [Avoiding Cross-Origin Issues While Hosting Full Projects — Dev.to](https://dev.to/arunangshu_das/avoiding-cross-origin-issues-while-hosting-full-projects-1gi8)
+- [The Ultimate Guide to Setting Up Your Dev Environment for CORS — Wisp Blog](https://www.wisp.blog/blog/the-ultimate-guide-to-setting-up-your-dev-environment-for-cors-and-live-apis)
 
 ### Video
 
